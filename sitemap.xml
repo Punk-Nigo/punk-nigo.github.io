@@ -636,14 +636,14 @@
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/tags/Firebase/</loc>
+    <loc>https://punk-nigo.github.io/tags/Eclipse/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/tags/Eclipse/</loc>
+    <loc>https://punk-nigo.github.io/tags/Firebase/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -692,14 +692,14 @@
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/tags/React/</loc>
+    <loc>https://punk-nigo.github.io/tags/github-React/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/tags/github-React/</loc>
+    <loc>https://punk-nigo.github.io/tags/React/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -841,13 +841,6 @@
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/categories/Js/</loc>
-    <lastmod>2022-02-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://punk-nigo.github.io/categories/Java/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -856,6 +849,13 @@
   
   <url>
     <loc>https://punk-nigo.github.io/categories/Other/</loc>
+    <lastmod>2022-02-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://punk-nigo.github.io/categories/Js/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
