@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://punk-nigo.github.io/404.html</loc>
+    
+    <lastmod>2022-02-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://punk-nigo.github.io/2021/03/13/Python-django/</loc>
     
     <lastmod>2021-03-13</lastmod>
@@ -629,7 +638,7 @@
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/tags/Eclipse/</loc>
+    <loc>https://punk-nigo.github.io/tags/PHP/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -637,6 +646,13 @@
   
   <url>
     <loc>https://punk-nigo.github.io/tags/Firebase/</loc>
+    <lastmod>2022-02-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://punk-nigo.github.io/tags/Eclipse/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -664,14 +680,21 @@
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/tags/python-django/</loc>
+    <loc>https://punk-nigo.github.io/tags/strtotime/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/tags/strtotime/</loc>
+    <loc>https://punk-nigo.github.io/tags/python/</loc>
+    <lastmod>2022-02-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://punk-nigo.github.io/tags/django/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -692,14 +715,14 @@
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/tags/vue-nodejs/</loc>
+    <loc>https://punk-nigo.github.io/tags/vue/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/tags/vue/</loc>
+    <loc>https://punk-nigo.github.io/tags/nodejs/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -827,13 +850,6 @@
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/categories/Java/</loc>
-    <lastmod>2022-02-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://punk-nigo.github.io/categories/Other/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -842,6 +858,13 @@
   
   <url>
     <loc>https://punk-nigo.github.io/categories/Js/</loc>
+    <lastmod>2022-02-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://punk-nigo.github.io/categories/Java/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -863,6 +886,13 @@
   
   <url>
     <loc>https://punk-nigo.github.io/categories/python/</loc>
+    <lastmod>2022-02-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://punk-nigo.github.io/categories/Adobe/php/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
