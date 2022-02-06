@@ -617,13 +617,6 @@
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/tags/Angular-Cli/</loc>
-    <lastmod>2022-02-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://punk-nigo.github.io/tags/Bluetooth/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -631,21 +624,7 @@
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/tags/Dreamweaver/</loc>
-    <lastmod>2022-02-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://punk-nigo.github.io/tags/PHP/</loc>
-    <lastmod>2022-02-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://punk-nigo.github.io/tags/Firebase/</loc>
+    <loc>https://punk-nigo.github.io/tags/Angular-Cli/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -653,6 +632,13 @@
   
   <url>
     <loc>https://punk-nigo.github.io/tags/Eclipse/</loc>
+    <lastmod>2022-02-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://punk-nigo.github.io/tags/Firebase/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -680,7 +666,28 @@
   </url>
   
   <url>
+    <loc>https://punk-nigo.github.io/tags/Dreamweaver/</loc>
+    <lastmod>2022-02-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://punk-nigo.github.io/tags/PHP/</loc>
+    <lastmod>2022-02-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://punk-nigo.github.io/tags/strtotime/</loc>
+    <lastmod>2022-02-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://punk-nigo.github.io/tags/React/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -702,13 +709,6 @@
   
   <url>
     <loc>https://punk-nigo.github.io/tags/github-React/</loc>
-    <lastmod>2022-02-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://punk-nigo.github.io/tags/React/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -843,7 +843,7 @@
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/categories/Adobe/</loc>
+    <loc>https://punk-nigo.github.io/categories/Java/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -864,13 +864,6 @@
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/categories/Java/</loc>
-    <lastmod>2022-02-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://punk-nigo.github.io/categories/Hexo/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -885,14 +878,7 @@
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/categories/python/</loc>
-    <lastmod>2022-02-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://punk-nigo.github.io/categories/Adobe/php/</loc>
+    <loc>https://punk-nigo.github.io/categories/Adobe/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -900,6 +886,13 @@
   
   <url>
     <loc>https://punk-nigo.github.io/categories/React/</loc>
+    <lastmod>2022-02-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://punk-nigo.github.io/categories/python/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -914,6 +907,13 @@
   
   <url>
     <loc>https://punk-nigo.github.io/categories/Vue/</loc>
+    <lastmod>2022-02-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://punk-nigo.github.io/categories/Adobe/php/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
