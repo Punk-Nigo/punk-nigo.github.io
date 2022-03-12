@@ -110,6 +110,15 @@
   </url>
   
   <url>
+    <loc>https://punk-nigo.github.io/2021/02/28/Hexo-Gitalk/</loc>
+    
+    <lastmod>2021-02-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://punk-nigo.github.io/2020/07/27/MongoDB/</loc>
     
     <lastmod>2020-07-27</lastmod>
@@ -641,6 +650,20 @@
   </url>
   
   <url>
+    <loc>https://punk-nigo.github.io/tags/gitalk/</loc>
+    <lastmod>2022-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://punk-nigo.github.io/tags/hexo/</loc>
+    <lastmod>2022-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://punk-nigo.github.io/tags/Heroku/</loc>
     <lastmod>2022-03-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -662,6 +685,13 @@
   </url>
   
   <url>
+    <loc>https://punk-nigo.github.io/tags/strtotime/</loc>
+    <lastmod>2022-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://punk-nigo.github.io/tags/python/</loc>
     <lastmod>2022-03-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -676,7 +706,7 @@
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/tags/strtotime/</loc>
+    <loc>https://punk-nigo.github.io/tags/github-React/</loc>
     <lastmod>2022-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -684,13 +714,6 @@
   
   <url>
     <loc>https://punk-nigo.github.io/tags/React/</loc>
-    <lastmod>2022-03-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://punk-nigo.github.io/tags/github-React/</loc>
     <lastmod>2022-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -718,14 +741,14 @@
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/tags/solidworks/</loc>
+    <loc>https://punk-nigo.github.io/tags/lenovo-ideapad-720s/</loc>
     <lastmod>2022-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/tags/lenovo-ideapad-720s/</loc>
+    <loc>https://punk-nigo.github.io/tags/solidworks/</loc>
     <lastmod>2022-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -853,14 +876,14 @@
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/categories/Java/</loc>
+    <loc>https://punk-nigo.github.io/categories/Other/</loc>
     <lastmod>2022-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/categories/Other/</loc>
+    <loc>https://punk-nigo.github.io/categories/Java/</loc>
     <lastmod>2022-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -909,14 +932,14 @@
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/categories/vue/</loc>
+    <loc>https://punk-nigo.github.io/categories/Vue/</loc>
     <lastmod>2022-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/categories/Vue/</loc>
+    <loc>https://punk-nigo.github.io/categories/vue/</loc>
     <lastmod>2022-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
