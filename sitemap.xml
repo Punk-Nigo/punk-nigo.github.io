@@ -746,13 +746,6 @@
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/tags/Premiere/</loc>
-    <lastmod>2022-03-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://punk-nigo.github.io/tags/Node-JS/</loc>
     <lastmod>2022-03-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -817,6 +810,13 @@
   
   <url>
     <loc>https://punk-nigo.github.io/tags/Line-Api/</loc>
+    <lastmod>2022-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://punk-nigo.github.io/tags/premiere-pro/</loc>
     <lastmod>2022-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -889,13 +889,6 @@
   
   <url>
     <loc>https://punk-nigo.github.io/categories/PHP/</loc>
-    <lastmod>2022-03-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://punk-nigo.github.io/categories/Adobe/php/</loc>
     <lastmod>2022-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
