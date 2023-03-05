@@ -611,6 +611,13 @@
   </url>
   
   <url>
+    <loc>https://punk-nigo.github.io/tags/Sitemap/</loc>
+    <lastmod>2023-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://punk-nigo.github.io/tags/Gitalk/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -619,13 +626,6 @@
   
   <url>
     <loc>https://punk-nigo.github.io/tags/Hexo/</loc>
-    <lastmod>2023-03-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://punk-nigo.github.io/tags/Sitemap/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -737,6 +737,13 @@
   </url>
   
   <url>
+    <loc>https://punk-nigo.github.io/tags/tree/</loc>
+    <lastmod>2023-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://punk-nigo.github.io/tags/%E8%B7%A8%E5%B9%B3%E5%8F%B0%E5%85%83%E4%BB%B6/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -745,13 +752,6 @@
   
   <url>
     <loc>https://punk-nigo.github.io/tags/%E8%87%AA%E7%84%B6%E4%BA%BA%E6%86%91%E8%AD%89/</loc>
-    <lastmod>2023-03-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://punk-nigo.github.io/tags/tree/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -786,14 +786,14 @@
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/tags/WordPress/</loc>
+    <loc>https://punk-nigo.github.io/tags/Webduino/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/tags/Webduino/</loc>
+    <loc>https://punk-nigo.github.io/tags/WordPress/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -935,14 +935,14 @@
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/categories/WordPress/</loc>
+    <loc>https://punk-nigo.github.io/categories/Webduino/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/categories/Webduino/</loc>
+    <loc>https://punk-nigo.github.io/categories/WordPress/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
