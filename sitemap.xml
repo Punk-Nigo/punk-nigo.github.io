@@ -578,20 +578,6 @@
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/tags/Firebase/</loc>
-    <lastmod>2024-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://punk-nigo.github.io/tags/JS/</loc>
-    <lastmod>2024-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://punk-nigo.github.io/tags/VBA/</loc>
     <lastmod>2024-02-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -600,6 +586,20 @@
   
   <url>
     <loc>https://punk-nigo.github.io/tags/Excel/</loc>
+    <lastmod>2024-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://punk-nigo.github.io/tags/Firebase/</loc>
+    <lastmod>2024-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://punk-nigo.github.io/tags/JS/</loc>
     <lastmod>2024-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -669,6 +669,13 @@
   </url>
   
   <url>
+    <loc>https://punk-nigo.github.io/tags/FancyWebSocket/</loc>
+    <lastmod>2024-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://punk-nigo.github.io/tags/strtotime/</loc>
     <lastmod>2024-02-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -691,13 +698,6 @@
   
   <url>
     <loc>https://punk-nigo.github.io/tags/Vue/</loc>
-    <lastmod>2024-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://punk-nigo.github.io/tags/FancyWebSocket/</loc>
     <lastmod>2024-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -874,14 +874,14 @@
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/categories/Firebase/</loc>
+    <loc>https://punk-nigo.github.io/categories/VBA/</loc>
     <lastmod>2024-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://punk-nigo.github.io/categories/VBA/</loc>
+    <loc>https://punk-nigo.github.io/categories/Firebase/</loc>
     <lastmod>2024-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
